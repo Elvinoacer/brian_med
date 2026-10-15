@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" viewBox="0 0 800 560" fill="none">
+  <title>A clearer conversation</title>
+  <desc>A concept diagram connects Explanation, Understanding and Next step.</desc>
+  <rect width="800" height="560" fill="#E2ECE7"/>
+  <path d="M0 440C200 230 545 571 800 331M0 468C200 258 545 599 800 359M0 496C200 286 545 627 800 387" stroke="#124C46" stroke-opacity=".07"/>
+  <rect x="51" y="51" width="698" height="458" rx="3" fill="#F6F3EC"/>
+  <text x="86" y="99" fill="#9B4D36" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">01 / COMMUNICATION</text>
+  <path d="M86 121H714" stroke="#D7DCD2"/>
+  <text x="86" y="170" fill="#132E2C" font-family="Georgia, serif" font-size="30">A clearer conversation.</text>
+  <path d="M198 297H598" stroke="#124C46" stroke-opacity=".4" stroke-width="1.5"/>
+  <circle cx="192" cy="297" r="50" fill="#E2ECE7"/>
+  <circle cx="400" cy="297" r="50" fill="#E2ECE7"/>
+  <circle cx="608" cy="297" r="50" fill="#124C46"/>
+  <g stroke="#124C46" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M173 278H211V304H190L180 312V304H173Z"/><path d="M181 286H203M181 293H198"/></g>
+  <g stroke="#124C46" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M391 277C382 277 377 284 377 293C377 310 390 312 399 320C408 312 422 310 422 293C422 284 417 277 408 277C404 277 401 279 399 282C397 279 394 277 391 277Z"/><path d="M391 295L397 301L410 287"/></g>
+  <g stroke="#F6F3EC" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M592 298H624M615 289L624 298L615 307"/></g>
+  <circle cx="286" cy="297" r="3" fill="#9B4D36"/>
+  <circle cx="503" cy="297" r="3" fill="#9B4D36"/>
+  <text x="192" y="377" text-anchor="middle" fill="#132E2C" font-family="Arial, sans-serif" font-size="18">Explanation</text>
+  <text x="400" y="377" text-anchor="middle" fill="#132E2C" font-family="Arial, sans-serif" font-size="18">Understanding</text>
+  <text x="608" y="377" text-anchor="middle" fill="#132E2C" font-family="Arial, sans-serif" font-size="18">Next step</text>
+  <text x="192" y="402" text-anchor="middle" fill="#4D625E" font-family="Arial, sans-serif" font-size="12">Make it clear.</text>
+  <text x="400" y="402" text-anchor="middle" fill="#4D625E" font-family="Arial, sans-serif" font-size="12">Make room to ask.</text>
+  <text x="608" y="402" text-anchor="middle" fill="#4D625E" font-family="Arial, sans-serif" font-size="12">Make it practical.</text>
+  <path d="M86 449H714" stroke="#D7DCD2"/>
+  <text x="86" y="479" fill="#4D625E" font-family="Arial, sans-serif" font-size="11" letter-spacing="1.2">PROPOSED COMMUNICATION CONCEPT</text>
+  <text x="714" y="479" text-anchor="end" fill="#124C46" font-family="Georgia, serif" font-size="17">BK</text>
+</svg>

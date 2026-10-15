@@ -1,0 +1,26 @@
+[
+  {
+    "url": "/",
+    "width": 1440,
+    "passes": 27,
+    "violations": []
+  },
+  {
+    "url": "/",
+    "width": 390,
+    "passes": 27,
+    "violations": []
+  },
+  {
+    "url": "/work/clearer-discharge-conversations",
+    "width": 1440,
+    "passes": 24,
+    "violations": []
+  },
+  {
+    "url": "/notes/plain-language-is-clinical-work",
+    "width": 390,
+    "passes": 22,
+    "violations": []
+  }
+]

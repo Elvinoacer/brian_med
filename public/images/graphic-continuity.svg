@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" viewBox="0 0 800 560" fill="none">
+  <title>The life around follow-up</title>
+  <desc>Travel, work, family and information surround follow-up in a proposed continuity of care concept.</desc>
+  <rect width="800" height="560" fill="#D5E3DB"/>
+  <g stroke="#124C46" stroke-opacity=".08"><path d="M-90 318C2 94 208 506 427 330S686 192 912 298"/><path d="M-90 338C2 114 208 526 427 350S686 212 912 318"/><path d="M-90 358C2 134 208 546 427 370S686 232 912 338"/><path d="M-90 378C2 154 208 566 427 390S686 252 912 358"/><path d="M-90 398C2 174 208 586 427 410S686 272 912 378"/><path d="M-90 418C2 194 208 606 427 430S686 292 912 398"/></g>
+  <text x="57" y="66" fill="#9B4D36" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">02 / CONTINUITY OF CARE</text>
+  <text x="57" y="107" fill="#132E2C" font-family="Georgia, serif" font-size="30">Care has a context.</text>
+  <ellipse cx="400" cy="306" rx="240" ry="152" stroke="#124C46" stroke-opacity=".3" stroke-dasharray="3 8"/>
+  <path d="M400 168V246M400 365V444M226 306H330M470 306H574" stroke="#124C46" stroke-opacity=".38" stroke-width="1.4"/>
+  <rect x="335" y="144" width="130" height="52" rx="26" fill="#F6F3EC"/>
+  <text x="400" y="176" text-anchor="middle" fill="#132E2C" font-family="Arial, sans-serif" font-size="17">Travel</text>
+  <rect x="116" y="280" width="130" height="52" rx="26" fill="#F6F3EC"/>
+  <text x="181" y="312" text-anchor="middle" fill="#132E2C" font-family="Arial, sans-serif" font-size="17">Work</text>
+  <rect x="553" y="280" width="130" height="52" rx="26" fill="#F6F3EC"/>
+  <text x="618" y="312" text-anchor="middle" fill="#132E2C" font-family="Arial, sans-serif" font-size="17">Family</text>
+  <rect x="314" y="417" width="172" height="52" rx="26" fill="#F6F3EC"/>
+  <text x="400" y="449" text-anchor="middle" fill="#132E2C" font-family="Arial, sans-serif" font-size="17">Information</text>
+  <circle cx="400" cy="306" r="76" fill="#124C46"/>
+  <circle cx="400" cy="306" r="87" stroke="#124C46" stroke-opacity=".22"/>
+  <path d="M383 282C388 270 404 268 415 278M415 278V267M415 278H404M417 310C412 322 396 324 385 314M385 314V325M385 314H396" stroke="#F6F3EC" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="400" y="349" text-anchor="middle" fill="#F6F3EC" font-family="Arial, sans-serif" font-size="18">Follow-up</text>
+  <circle cx="283" cy="192" r="4" fill="#9B4D36"/>
+  <circle cx="546" cy="427" r="4" fill="#9B4D36"/>
+  <path d="M57 504H743" stroke="#124C46" stroke-opacity=".2"/>
+  <text x="57" y="530" fill="#4D625E" font-family="Arial, sans-serif" font-size="11" letter-spacing="1.2">PROPOSED COMMUNITY HEALTH CONCEPT</text>
+</svg>

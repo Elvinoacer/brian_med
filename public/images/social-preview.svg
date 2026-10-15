@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+<title>Brian Kiptoo — Medicine, with the person in view.</title>
+<desc>Professional portfolio of an MBChB student at Moi University. Warm paper, deep teal typography and an original decorative anatomical plate.</desc>
+<rect width="1200" height="630" fill="#F6F3EC"/>
+<path d="M64 126H708M64 552H708" stroke="#D7DCD2"/>
+<g transform="translate(65 50)" stroke="#124C46" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M0 0V44M0 0H10C27 0 27 20 10 20H0M10 20C29 20 29 44 10 44H0M26 0V44M47 0L26 23L49 44"/><circle cx="53" cy="2" r="3" fill="#9B4D36" stroke="none"/></g>
+<text x="145" y="69" fill="#132E2C" font-family="Arial, sans-serif" font-size="19">Brian Kiptoo</text>
+<text x="145" y="93" fill="#4D625E" font-family="Arial, sans-serif" font-size="12" letter-spacing="1.3">MEDICINE &amp; SURGERY</text>
+<text x="64" y="201" fill="#124C46" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">AN EMERGING CLINICIAN. A HUMAN PERSPECTIVE.</text>
+<text x="61" y="292" fill="#132E2C" font-family="Georgia, 'Times New Roman', serif" font-size="70" letter-spacing="-2">Medicine, with</text>
+<text x="61" y="375" fill="#132E2C" font-family="Georgia, 'Times New Roman', serif" font-size="70" letter-spacing="-2">the person in view.</text>
+<path d="M403 393C478 388 577 391 676 396" stroke="#9B4D36" stroke-width="1.5"/>
+<text x="64" y="453" fill="#4D625E" font-family="Arial, sans-serif" font-size="20">MBChB student · Moi University</text>
+<text x="64" y="486" fill="#4D625E" font-family="Arial, sans-serif" font-size="17">Clinical curiosity. Thoughtful communication. Community.</text>
+<circle cx="69" cy="581" r="4" fill="#9B4D36"/>
+<text x="85" y="586" fill="#124C46" font-family="Arial, sans-serif" font-size="12" letter-spacing="1.1">COLLEGE OF HEALTH SCIENCES · ELDORET, KENYA</text>
+<rect x="752" y="24" width="423" height="582" rx="210" fill="#E2ECE7"/>
+<svg xmlns="http://www.w3.org/2000/svg" x="776" y="46" width="372" height="536" viewBox="0 0 700 820" fill="none">
+  <title>The art of paying attention</title>
+  <desc>A decorative anatomical-inspired observation plate, drawn in deep teal on pale sage. It is an abstract editorial illustration, not a medical diagram.</desc>
+  <defs>
+    <linearGradient id="paper" x1="100" y1="0" x2="640" y2="820" gradientUnits="userSpaceOnUse"><stop stop-color="#E2ECE7"/><stop offset="1" stop-color="#C8DAD0"/></linearGradient>
+    <radialGradient id="light" cx="0" cy="0" r="1" gradientTransform="translate(410 355) rotate(90) scale(300 260)" gradientUnits="userSpaceOnUse"><stop stop-color="#F6F3EC" stop-opacity=".95"/><stop offset="1" stop-color="#F6F3EC" stop-opacity="0"/></radialGradient>
+    <linearGradient id="lung" x1="230" y1="250" x2="450" y2="600" gradientUnits="userSpaceOnUse"><stop stop-color="#124C46" stop-opacity=".09"/><stop offset="1" stop-color="#124C46" stop-opacity=".025"/></linearGradient>
+    <pattern id="grain" x="0" y="0" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".55" fill="#124C46" opacity=".09"/></pattern>
+  </defs>
+  <rect width="700" height="820" rx="6" fill="url(#paper)"/>
+  <rect width="700" height="820" rx="6" fill="url(#light)"/>
+  <rect width="700" height="820" rx="6" fill="url(#grain)"/>
+  <path d="M38 109V38H109M591 38H662V109M662 711V782H591M109 782H38V711" stroke="#124C46" stroke-opacity=".25"/>
+  <text x="62" y="77" fill="#124C46" font-family="Arial, sans-serif" font-size="10" letter-spacing="2.3">THE OBSERVANT CLINICIAN</text>
+  <text x="638" y="77" text-anchor="end" fill="#124C46" font-family="Arial, sans-serif" font-size="10" letter-spacing="2">PLATE 01</text>
+  <circle cx="358" cy="381" r="245" stroke="#124C46" stroke-opacity=".09"/>
+  <circle cx="358" cy="381" r="201" stroke="#124C46" stroke-opacity=".065"/>
+  <path d="M114 382H602M358 132V633" stroke="#124C46" stroke-opacity=".11" stroke-dasharray="2 8"/>
+  <path d="M328 128C326 157 324 184 311 204C295 220 264 224 222 239C162 259 139 292 140 349C137 426 159 470 181 521C194 551 204 594 204 637M379 128C381 157 384 184 397 204C413 220 444 224 486 239C546 259 569 292 568 349C571 426 549 470 527 521C514 551 504 594 504 637" stroke="#124C46" stroke-opacity=".23" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M340 230C327 221 302 223 274 230C249 238 223 246 196 256M368 230C381 221 406 223 434 230C459 238 485 246 512 256" stroke="#124C46" stroke-opacity=".55" stroke-width="2" stroke-linecap="round"/>
+  <path d="M344 220C347 257 348 292 348 328L342 360L352 413L363 395L364 329C366 291 367 257 364 220" stroke="#124C46" stroke-opacity=".34" stroke-width="1.4" stroke-linejoin="round"/>
+  <path d="M330 249C313 239 289 244 267 263C224 299 206 359 202 414C195 467 217 527 255 548C279 563 313 563 332 549C337 533 330 507 331 479C333 439 318 418 321 386C323 352 327 335 330 304C332 286 334 263 330 249Z" fill="url(#lung)" stroke="#124C46" stroke-opacity=".4" stroke-width="1.4"/>
+  <path d="M381 249C398 239 422 244 444 263C487 299 505 359 509 414C516 467 495 527 457 548C433 563 398 563 379 549C374 533 380 507 379 479C377 439 391 418 389 386C386 352 384 335 381 304C379 286 376 263 381 249Z" fill="url(#lung)" stroke="#124C46" stroke-opacity=".4" stroke-width="1.4"/>
+  <g stroke="#124C46" stroke-width="1.3" stroke-linecap="round" stroke-opacity=".43">
+    <path d="M344 267C301 250 269 260 243 281C219 300 208 321 219 332C238 348 288 306 344 293"/>
+    <path d="M345 301C294 282 252 296 229 315C205 335 196 356 210 368C233 386 285 337 345 326"/>
+    <path d="M344 336C287 315 243 331 220 352C195 375 190 395 204 407C229 425 280 374 343 359"/>
+    <path d="M344 372C286 351 240 368 217 393C195 417 193 437 208 448C234 464 280 412 345 395"/>
+    <path d="M347 409C290 389 244 408 223 432C204 455 208 476 222 485C248 500 286 450 347 430"/>
+    <path d="M347 448C295 432 260 449 239 471C219 492 226 511 242 516C267 525 293 487 344 471"/>
+    <path d="M341 486C299 479 281 498 264 515C252 528 258 540 273 537C292 533 304 515 335 509"/>
+    <path d="M365 267C408 250 440 260 466 281C490 300 501 321 490 332C471 348 421 306 365 293"/>
+    <path d="M365 301C416 282 458 296 481 315C505 335 514 356 500 368C477 386 425 337 365 326"/>
+    <path d="M366 336C423 315 467 331 490 352C515 375 520 395 506 407C481 425 430 374 367 359"/>
+    <path d="M366 372C424 351 470 368 493 393C515 417 513 437 498 448C472 464 426 412 365 395"/>
+    <path d="M363 409C420 389 466 408 487 432C506 455 502 476 488 485C462 500 424 450 363 430"/>
+    <path d="M363 448C415 432 450 449 471 471C491 492 484 511 468 516C443 525 417 487 366 471"/>
+    <path d="M369 486C411 479 429 498 446 515C458 528 452 540 437 537C418 533 406 515 375 509"/>
+  </g>
+  <path d="M354 176V300M345 182H364M345 190H364M345 198H364M345 206H364M345 214H364M347 301C338 324 315 333 300 349M363 301C371 321 394 331 411 348" stroke="#124C46" stroke-width="1.3" stroke-opacity=".5" stroke-linecap="round"/>
+  <g stroke="#124C46" stroke-width="1" stroke-opacity=".28" stroke-linecap="round">
+    <path d="M302 347L277 367L262 406M291 357L279 333M277 368L249 375M263 403L246 428M277 368L290 418L269 451M288 414L310 432M290 418L291 483M302 347L313 383"/>
+    <path d="M411 347L436 367L451 406M422 357L434 333M436 368L464 375M450 403L467 428M436 368L423 418L444 451M425 414L403 432M423 418L422 483M411 347L400 383"/>
+  </g>
+  <g fill="#E2ECE7" stroke="#124C46" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M357 353C343 334 324 334 311 350C298 365 303 390 310 409C319 435 339 459 365 476C383 469 406 447 418 423C432 395 433 375 418 360C404 345 386 343 373 352L374 325C374 315 381 307 393 308L394 292C373 288 354 300 351 317L348 338" fill="#CADBD2"/>
+    <path d="M357 353C369 365 370 383 367 402C364 424 362 449 365 476M357 353C344 359 333 367 326 381M367 403C382 393 398 387 421 389M366 421C380 424 386 437 387 454M365 433C350 425 338 417 330 402" fill="none" stroke-opacity=".6"/>
+    <path d="M376 351L386 333L404 328L405 341L393 347L389 357M324 345L320 326L307 324L307 336L313 351" fill="#CADBD2"/>
+  </g>
+  <path d="M207 587C253 566 304 568 350 586C394 568 448 566 503 587" stroke="#124C46" stroke-opacity=".25" stroke-width="1.3"/>
+  <path d="M408 423H567C585 423 594 432 594 450V571C594 589 582 603 564 603H505" stroke="#9B4D36" stroke-width="1.25"/>
+  <circle cx="408" cy="423" r="4" fill="#9B4D36"/>
+  <circle cx="505" cy="603" r="3" fill="#9B4D36"/>
+  <path d="M64 684H636" stroke="#124C46" stroke-opacity=".22"/>
+  <text x="64" y="724" fill="#124C46" font-family="Georgia, 'Times New Roman', serif" font-size="27">The art of paying attention.</text>
+  <text x="64" y="749" fill="#4D625E" font-family="Arial, sans-serif" font-size="11" letter-spacing="1.5">SCIENCE. UNDERSTANDING. HUMANITY.</text>
+  <g transform="translate(588 711)" stroke="#124C46" stroke-width="1.4" stroke-linecap="round"><path d="M0 0V34M0 1H8C21 1 21 16 8 16H0M8 16C23 16 23 33 8 33H0M22 0V34M40 0L22 18L42 34"/><circle cx="46" cy="3" r="2.5" fill="#9B4D36" stroke="none"/></g>
+</svg>
+
+</svg>

@@ -1,0 +1,30 @@
+{
+  "checks": [
+    "Single H1 and main landmark",
+    "Illustrative content stays noindex",
+    "Keyboard skip link works",
+    "Clinical disclosure mouse and keyboard toggle",
+    "Approved email copies to clipboard with real feedback",
+    "All six email actions target the approved recipient",
+    "No horizontal overflow at 320px",
+    "No horizontal overflow at 390px",
+    "No horizontal overflow at 640px",
+    "No horizontal overflow at 768px",
+    "No horizontal overflow at 1024px",
+    "No horizontal overflow at 1440px",
+    "Mobile menu exposes all nine sections; Escape restores focus",
+    "Mobile section selection closes menu and navigates",
+    "Article route /work/clearer-discharge-conversations",
+    "Article route /work/continuity-of-care",
+    "Article route /work/clinical-learning-notebook",
+    "Article route /notes/listening-before-concluding",
+    "Article route /notes/plain-language-is-clinical-work",
+    "Article route /notes/context-travels-home",
+    "Article page fits 320px",
+    "Invalid article has custom 404",
+    "Reduced motion removes intro animation",
+    "No browser runtime errors throughout tested flows"
+  ],
+  "screens": [],
+  "errors": []
+}

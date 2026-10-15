@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" viewBox="0 0 800 560" fill="none">
+  <title>A clinical learning notebook</title>
+  <desc>A notebook page with six prompts: Context, Observation, Reasoning, Feedback, Reflection and Next question.</desc>
+  <rect width="800" height="560" fill="#E9E6DB"/>
+  <path d="M54 53H168M54 53V167M632 507H746M746 507V393" stroke="#124C46" stroke-opacity=".2"/>
+  <g transform="translate(191 44) rotate(-5 217 240)">
+    <rect x="13" y="15" width="433" height="475" rx="3" fill="#C8CCBF" fill-opacity=".5"/>
+    <rect x="5" y="7" width="433" height="475" rx="3" fill="#E2ECE7"/>
+    <rect width="433" height="475" rx="3" fill="#F6F3EC"/>
+    <path d="M35 0V475" stroke="#9B4D36" stroke-opacity=".22"/>
+    <path d="M35 80H407M35 139H407M35 193H407M35 247H407M35 301H407M35 355H407M35 409H407" stroke="#D7DCD2"/>
+    <text x="58" y="36" fill="#9B4D36" font-family="Arial, sans-serif" font-size="10" letter-spacing="1.8">03 / A REFLECTIVE PRACTICE</text>
+    <text x="58" y="65" fill="#132E2C" font-family="Georgia, serif" font-size="25">Learning, made visible.</text>
+    <g fill="#9B4D36" font-family="Arial, sans-serif" font-size="11"><text x="13" y="118">01</text><text x="13" y="172">02</text><text x="13" y="226">03</text><text x="13" y="280">04</text><text x="13" y="334">05</text><text x="13" y="388">06</text></g>
+    <g fill="#132E2C" font-family="Arial, sans-serif" font-size="16"><text x="58" y="109">Context</text><text x="58" y="163">Observation</text><text x="58" y="217">Reasoning</text><text x="58" y="271">Feedback</text><text x="58" y="325">Reflection</text><text x="58" y="379">Next question</text></g>
+    <g fill="#4D625E" font-family="Arial, sans-serif" font-size="11"><text x="58" y="128">What was the learning situation?</text><text x="58" y="182">What did I notice?</text><text x="58" y="236">How did I make sense of it?</text><text x="58" y="290">What did others help me see?</text><text x="58" y="344">What changed in my understanding?</text><text x="58" y="398">What will I explore next?</text></g>
+    <path d="M58 385C88 382 131 382 167 385" stroke="#9B4D36" stroke-width="1.1"/>
+    <text x="58" y="447" fill="#4D625E" font-family="Arial, sans-serif" font-size="10" letter-spacing="1.2">PROPOSED LEARNING RESOURCE</text>
+    <text x="388" y="449" text-anchor="end" fill="#124C46" font-family="Georgia, serif" font-size="17">BK</text>
+  </g>
+  <g transform="translate(677 164) rotate(12)"><rect width="9" height="261" rx="4.5" fill="#124C46"/><path d="M0 251H9L4.5 276Z" fill="#A7BDB0"/><path d="M2.5 268H6.5L4.5 276Z" fill="#132E2C"/><path d="M2 15V67" stroke="#F6F3EC" stroke-opacity=".6"/></g>
+</svg>

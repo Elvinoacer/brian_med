@@ -1,0 +1,42 @@
+[
+  {
+    "name": "body",
+    "ratio": 13.03,
+    "pass": true
+  },
+  {
+    "name": "muted",
+    "ratio": 5.88,
+    "pass": true
+  },
+  {
+    "name": "teal",
+    "ratio": 8.82,
+    "pass": true
+  },
+  {
+    "name": "clay",
+    "ratio": 5.4,
+    "pass": true
+  },
+  {
+    "name": "muted on mist",
+    "ratio": 5.39,
+    "pass": true
+  },
+  {
+    "name": "dark section copy",
+    "ratio": 7.08,
+    "pass": true
+  },
+  {
+    "name": "dark section secondary",
+    "ratio": 6.76,
+    "pass": true
+  },
+  {
+    "name": "dark section accent",
+    "ratio": 5.26,
+    "pass": true
+  }
+]
